@@ -1,2 +1,1 @@
-# Oasis Infbyte Task 
-Landing-Page
+# Oasis Infbyte Task Landing-Page
